@@ -53,7 +53,7 @@ A robust RESTful API simulating a convenience store backend. Built with **Spring
 
 1. Clone the repository
 2. Create Database called "shop" SQL Command is provided in setup.sql
-3. Run Database
+3. Run Database and Docker Desktop
 4. bash docker compose up --build or bash ./mvnw spring-boot:run
 5. test API in Postman
 
